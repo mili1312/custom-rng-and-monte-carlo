@@ -18,16 +18,7 @@ This project implements custom pseudo-random number generators and statistical d
 - Distribution validation
 - Statistical testing
 
-## Example Outputs
 
-### LCG Uniform Distribution
-![LCG Histogram](figures/lcg_histogram.png)
-
-### Triangular Distribution
-![Triangular](figures/triangular_distribution.png)
-
-### Normal Distribution (Box-Muller)
-![Normal](figures/normal_distribution.png)
 
 ## What I Learned
 
